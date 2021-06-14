@@ -64,8 +64,18 @@ const questions = [
 
 // TODO: Create a function to write README file
 function writeToFile(fileName, data) {
-    writeToFile()
-}
+    fs.writeFile(filename, JSON.stringify(data, null, '\t'), function(err){
+        if (err) {
+            return console.log(err);
+        } 
+});
+//fs.readFile("README.md", "utf8", function(error,log ) {
+
+    //if (error) {
+     //   return console.log(error)
+    //}
+//});
+
 
 // TODO: Create a function to initialize app
 function init() {
@@ -75,7 +85,8 @@ function init() {
 
     })
  
-}
+}}
+
 
 // Function call to initialize app
 init();
