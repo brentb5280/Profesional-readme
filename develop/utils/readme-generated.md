@@ -9,24 +9,24 @@
         *[Test]
         *[Usage]
         *[Contribute]
-    # test
+    # text
 
     ## Desciption
 
-    this project rocks
+    textr
 
     ## Email
-    brent@test.com
+    text
 
     ##License
     MIT
 
     ## Installation
-    npm i
+    text
 
     ## Test
-    its awesome
+    text
 
     ##Contribute
-    its cool
+    text
      
