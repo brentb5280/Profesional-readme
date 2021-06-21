@@ -1,6 +1,6 @@
 # Profesional-readme
 
-### small text
+
 
 AS A developer
 I WANT a README generator

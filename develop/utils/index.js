@@ -78,15 +78,15 @@ inquirer.prompt([
     const template =
     `
     ## Table of Contents
-        *[Name]
-        *[Email]
-        *[Title]
-        *[Description]
-        *[License]
-        *[Installation]
-        *[Test]
-        *[Usage]
-        *[Contribute]
+        ##[Name]
+        ##[Email]
+        ##[Title]
+        ##[Description]
+        ##[License]
+        ##[Installation]
+        ##[Test]
+        ##[Usage]
+        ##[Contribute]
     # ${data.title}
 
     ## Desciption
