@@ -1,36 +1,39 @@
 
-    
-
-  Professional Readme
-
-    ## Table of Contents
-
+  Professional ReadMe
+  
+ ## Table of Contents
 * [Title](#title)
 * [Name](#username)
 * [Email](#email)
 * [Description](#description)
 * [Installation](#installation)
+* [Test](#test)
 * [Usage](#usage)
 * [Contribute](#contribute)
 * [License](#license)
 
-
-    ## Desciption
-
-    this project is made to create a professional Read me andgenerate mark down correctly
+   ## Name 
+   brent5280
 
     ## Email
     brentbowles@test.com
 
-    ## License
-    Unlicense
+    ## Desciption
+
+    this project is built to create a professional read me to make it easier for developers to follow SOP's and have a standard on how we contribute with our code.
 
     ## Installation
-    node index.js
+    npm i
 
     ## Test
-    this repository was created to create a readme 
+    undefined
+
+    ## Usage
+    this repositiry is for training purposes only
 
     ## Contribute
-    have fun and happy coding 
+    feel free and happy coding
+
+     ## License
+    Unlicense
      

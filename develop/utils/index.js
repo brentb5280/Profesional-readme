@@ -77,40 +77,43 @@ inquirer.prompt([
     } = data;
     const template =
     `
-    
-
   ${data.title}
-
-    ## Table of Contents
-
+  
+ ## Table of Contents
 * [Title](#title)
 * [Name](#username)
 * [Email](#email)
 * [Description](#description)
 * [Installation](#installation)
+* [Test](#test)
 * [Usage](#usage)
 * [Contribute](#contribute)
 * [License](#license)
 
+   ## Name 
+   ${data.username}
+
+    ## Email
+    ${data.email}
 
     ## Desciption
 
     ${data.description}
 
-    ## Email
-    ${data.email}
-
-    ## License
-    ${data.license}
-
     ## Installation
     ${data.installation}
 
     ## Test
+    ${data.test}
+
+    ## Usage
     ${data.usage}
 
     ## Contribute
     ${data.contribute}
+
+     ## License
+    ${data.license}
      `;
      // TODO: Create a function to write README file
 
