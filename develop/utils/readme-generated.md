@@ -1,6 +1,6 @@
 
     ## Table of Contents
-        ##[Name]
+        ##Name
         ##[Email]
         ##[Title]
         ##[Description]
@@ -19,10 +19,10 @@
     test
 
     ##License
-    MIT
+    Apache 2.0
 
     ## Installation
-    test
+    npm i
 
     ## Test
     test

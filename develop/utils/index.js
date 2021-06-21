@@ -78,9 +78,9 @@ inquirer.prompt([
     const template =
     `
     ## Table of Contents
-        ##[Name]
+        ##Name
         ##[Email]
-        ##[Title]
+        #[Title]
         ##[Description]
         ##[License]
         ##[Installation]

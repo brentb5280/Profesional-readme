@@ -21,3 +21,42 @@ WHEN I enter my email address
 THEN this is added to the section of the README entitled Questions, with instructions on how to reach me with additional questions
 WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
+
+  ## Table of Contents
+* [Title](#title)
+* [Name](#username)
+* [Email](#email)
+* [Description](description)
+* [Installation](#installation)
+* [Usage](#usage)
+* [Contribute](#contribute)
+* [License](#license)
+
+ ## Installation
+
+Open the the terminal and to run test input "node index.js"
+
+
+## Usage 
+
+Provide instructions and examples for use. Include screenshots as needed.
+
+To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+
+```md
+![alt text](assets/images/screenshot.png)
+```
+
+
+## Credits
+
+List your collaborators, if any, with links to their GitHub profiles.
+
+If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
+
+If you followed tutorials, include links to those here as well.
+
+
+## License
+
+The last section of a good README is a license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, use [https://choosealicense.com/](https://choosealicense.com/)
