@@ -1,11 +1,32 @@
 
+    ## Table of Contents
+        *[Name]
+        *[Email]
+        *[Title]
+        *[Description]
+        *[License]
+        *[Installation]
+        *[Test]
+        *[Usage]
+        *[Contribute]
     # test
 
     ## Desciption
 
-    ]test
+    this project rocks
 
-    ## Table of Contents
+    ## Email
+    brent@test.com
 
-    ##
+    ##License
+    MIT
+
+    ## Installation
+    npm i
+
+    ## Test
+    its awesome
+
+    ##Contribute
+    its cool
      

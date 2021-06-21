@@ -77,16 +77,38 @@ inquirer.prompt([
     } = data;
     const template =
     `
+    ## Table of Contents
+        *[Name]
+        *[Email]
+        *[Title]
+        *[Description]
+        *[License]
+        *[Installation]
+        *[Test]
+        *[Usage]
+        *[Contribute]
     # ${data.title}
 
     ## Desciption
 
     ${data.description}
 
-    ## Table of Contents
+    ## Email
+    ${data.email}
 
-    ##
-     `;// TODO: Create a function to write README file
+    ##License
+    ${data.license}
+
+    ## Installation
+    ${data.installation}
+
+    ## Test
+    ${data.usage}
+
+    ##Contribute
+    ${data.contribute}
+     `;
+     // TODO: Create a function to write README file
 
      writeFileAsync("readme-generated.md", template).catch(err => {
          console.log(err);
