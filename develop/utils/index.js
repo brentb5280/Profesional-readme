@@ -77,16 +77,20 @@ inquirer.prompt([
     } = data;
     const template =
     `
+    
+
+  ${data.title}
+
     ## Table of Contents
 
-* [Title](title)
-* [Name](username)
-* [Email](email)
-* [Description](description)
-* [Installation](installation)
-* [Usage](usage)
-* [Contribute](contribute)
-* [License](license)
+* [Title](#title)
+* [Name](#username)
+* [Email](#email)
+* [Description](#description)
+* [Installation](#installation)
+* [Usage](#usage)
+* [Contribute](#contribute)
+* [License](#license)
 
 
     ## Desciption
@@ -96,7 +100,7 @@ inquirer.prompt([
     ## Email
     ${data.email}
 
-    ##License
+    ## License
     ${data.license}
 
     ## Installation
@@ -105,7 +109,7 @@ inquirer.prompt([
     ## Test
     ${data.usage}
 
-    ##Contribute
+    ## Contribute
     ${data.contribute}
      `;
      // TODO: Create a function to write README file

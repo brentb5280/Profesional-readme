@@ -25,11 +25,13 @@ THEN I am taken to the corresponding section of the README
 ## Description 
 My professional Readme was crated because as a small start up company of coders we have a constant flow of new employees and creating this Professional readMe will establish a standard company wide in regards to our Standard Operating Procedures. As new employees start their journey With this company and collaborating with other developers is is a key aspect to have a "change Log" thats readable and proffesional. The Problem this prevents is a wide range of different readme's coming across the board. everyone follows a standard making it easier to collaborate and and reach the goal.
 
+here is a link to a video showing how it works: https://drive.google.com/file/d/1xm1pe5e4PzP-QS4Ihg3QUVPtxwKofQ1s/view
+
   ## Table of Contents
 * [Title](#title)
 * [Name](#username)
 * [Email](#email)
-* [Description](description)
+* [Description](#description)
 * [Installation](#installation)
 * [Usage](#usage)
 * [Contribute](#contribute)
