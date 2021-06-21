@@ -78,16 +78,16 @@ inquirer.prompt([
     const template =
     `
     ## Table of Contents
-        ##Name
-        ##[Email]
-        #[Title]
-        ##[Description]
-        ##[License]
-        ##[Installation]
-        ##[Test]
-        ##[Usage]
-        ##[Contribute]
-    # ${data.title}
+
+* [Title](title)
+* [Name](username)
+* [Email](email)
+* [Description](description)
+* [Installation](installation)
+* [Usage](usage)
+* [Contribute](contribute)
+* [License](license)
+
 
     ## Desciption
 

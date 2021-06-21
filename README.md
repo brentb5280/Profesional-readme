@@ -22,6 +22,9 @@ THEN this is added to the section of the README entitled Questions, with instruc
 WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
 
+## Description 
+My professional Readme was crated because as a small start up company of coders we have a constant flow of new employees and creating this Professional readMe will establish a standard company wide in regards to our Standard Operating Procedures. As new employees start their journey With this company and collaborating with other developers is is a key aspect to have a "change Log" thats readable and proffesional. The Problem this prevents is a wide range of different readme's coming across the board. everyone follows a standard making it easier to collaborate and and reach the goal.
+
   ## Table of Contents
 * [Title](#title)
 * [Name](#username)
@@ -41,22 +44,29 @@ Open the the terminal and to run test input "node index.js"
 
 Provide instructions and examples for use. Include screenshots as needed.
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+ [Screen Shot](assets\Readme.JPG)
 
-```md
-![alt text](assets/images/screenshot.png)
-```
+
 
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
+I worked with my tutor who helped me get the markdown to generate
+The other help I got to complete this is a numerous amount of youtube videos
 
 
 ## License
 
-The last section of a good README is a license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, use [https://choosealicense.com/](https://choosealicense.com/)
+Copyright [2021] [Brent B.]
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
